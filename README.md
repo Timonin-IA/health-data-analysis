@@ -13,7 +13,7 @@
 #### Библиотеки:
 pandas, seaborn, matplotlib, jupyter
 #### Запуск
-`jupyter notebook heartbeat_analysis.ipynb`
+`jupyter notebook HR_analysis.ipynb`
 
 ### Статус проекта и планы
 
